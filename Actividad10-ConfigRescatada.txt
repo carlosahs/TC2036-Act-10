@@ -101,8 +101,10 @@ no shut
 
 
 router eigrp 200
+
 network 210.100.130.0
 network 198.68.1.0
+
 passive-int g0/0
 passive-int g0/1
 
