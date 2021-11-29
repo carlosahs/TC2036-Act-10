@@ -74,8 +74,8 @@ no ip domain lookup
 
 line con 0
 password cisco
-loggin
-loging sync
+login
+logging sync
 
 line vty 0 4
 password cisco
