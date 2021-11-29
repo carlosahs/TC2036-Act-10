@@ -50,10 +50,13 @@ ip route 0.0.0.0  0.0.0.0  s0/0/0
 
 
 router eigrp 2000
+
 network 210.10.10.0
 network 210.100.155.0
 network 198.68.1.0
+
 default-information originate
+
 passive-int s0/0/0
 passive-int s0/0/1
 passive-int g0/0
