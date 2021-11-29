@@ -8,7 +8,7 @@ config t
 hostname RFrontera
 
 service password-enc
-no ip domain-lookat
+no ip domain-lookup
 
 line con 0
 password cisco
