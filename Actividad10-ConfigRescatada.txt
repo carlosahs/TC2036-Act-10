@@ -23,7 +23,7 @@ enable password class
 
 
 int S0/0/0
-descripcion La conexion con el ISP 
+description La conexion con el ISP 
 ip address 134.89.254.242 255.255.255.252
 no shut
 
