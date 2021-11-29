@@ -3,7 +3,7 @@ Ya configurado
 
 -------- RF --------
 enabled
-confg t
+config t
 
 host name RFrontera
 
