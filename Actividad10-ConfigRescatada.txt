@@ -113,7 +113,7 @@ enable
 config t
 hostname SServers
 
-line consola 0
+line console 0
 passsword cisco
 loggin
 login sync
