@@ -109,7 +109,7 @@ passive-int g0/0
 passive-int g0/1
 
 ---- switch3 : Zona de servers -----
-ena
+enable
 config t
 hostname S3res
 
