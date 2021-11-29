@@ -115,8 +115,8 @@ hostname SServers
 
 line console 0
 passsword cisco
-loggin
-login sync
+login
+loggin sync
 
 line vwty 0 15
 password cisco
