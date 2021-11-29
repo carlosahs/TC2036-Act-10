@@ -17,7 +17,7 @@ logging sync
 
 line vty 0 4
 password cisco
-loggin
+logging
 
 enable password class
 
