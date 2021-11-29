@@ -118,7 +118,7 @@ passsword cisco
 login
 loggin sync
 
-line vwty 0 15
+line vty 0 15
 password cisco
 login
 
