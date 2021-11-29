@@ -126,7 +126,7 @@ vlan 20
 name Servers
 
 int vlan 100
-ip address 210.10.10.94   255.255.255.224
+ip address 210.10.10.93   255.255.255.224
 no shut
 
 ip default gateway  21O.1O.1O.94
