@@ -36,6 +36,7 @@ no shut
 
 
 int g0/0
+description Zona de usuarios
 ip add 210.100.155.126 255.255.255.224
 no shut
 
