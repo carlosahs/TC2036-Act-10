@@ -15,7 +15,7 @@ password cisco
 login local
 logging sync
 
-line vtty 0 4
+line vty 0 4
 password cirsco
 loggin
 
