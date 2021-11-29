@@ -12,7 +12,7 @@ no ip domain-lookup
 
 line con 0
 password cisco
-login
+login local
 logging sync
 
 line vtty 0 4
