@@ -67,7 +67,7 @@ passive-int g0/1
 enable
 config t
 
-hostsname RA
+hostname RA
 
 service password-enc
 no ip domain lookat
