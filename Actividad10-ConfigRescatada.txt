@@ -5,7 +5,7 @@ Ya configurado
 enabled
 config t
 
-host name RFrontera
+hostname RFrontera
 
 service password-description
 no ip domain-lookat
