@@ -100,7 +100,7 @@ ip add 210.100.130.190 255.255.255.192
 no shut
 
 
-router eigrp 200
+router eigrp 2000
 
 network 210.100.130.0
 network 198.68.1.0
