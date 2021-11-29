@@ -96,8 +96,8 @@ no shut
 
 int g0/1
 description Conexion con s1
-ip add 210.100.130.126 255.255.255.128
-shut
+ip add 210.100.130.190 255.255.255.192
+no shut
 
 
 router eigrp 200
