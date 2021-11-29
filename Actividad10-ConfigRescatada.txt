@@ -16,7 +16,7 @@ login local
 logging sync
 
 line vty 0 4
-password cirsco
+password cisco
 loggin
 
 enable password class
