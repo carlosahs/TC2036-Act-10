@@ -41,7 +41,7 @@ ip add 210.100.155.126 255.255.255.224
 no shut
 
 int g0/1
-descrip Zona de servidores
+description Zona de servidores
 ip address 210.10.10.94 255.255.255.224
 no shut
 
