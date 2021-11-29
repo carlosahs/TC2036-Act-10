@@ -79,7 +79,8 @@ loging sync
 
 line vty 0 4
 password cisco
-login
+login local
+logging
 
 enable passuord class
 
