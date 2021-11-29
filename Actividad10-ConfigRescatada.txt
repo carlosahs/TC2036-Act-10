@@ -13,7 +13,7 @@ no ip domain-lookup
 line con 0
 password cisco
 login
-logingg sync
+logging sync
 
 line vtty 0 4
 password cirsco
