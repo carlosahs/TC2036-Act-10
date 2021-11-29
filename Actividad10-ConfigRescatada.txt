@@ -82,7 +82,7 @@ password cisco
 login local
 logging
 
-enable passuord class
+enable password class
 
 int S0/0/0
 description La conexion con el RFrontera 
