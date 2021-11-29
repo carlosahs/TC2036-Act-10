@@ -111,7 +111,7 @@ passive-int g0/1
 ---- switch3 : Zona de servers -----
 enable
 config t
-hostname S3res
+hostname SServers
 
 line consola 0
 passsword cisco
@@ -130,8 +130,3 @@ ip addess 210.10.10.93   255.255.255.254
 no shut
 
 ip defoult gaeteway  21O.1O.1O.96
-
-
-
-
-
