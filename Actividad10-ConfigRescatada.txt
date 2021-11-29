@@ -65,7 +65,7 @@ passive-int g0/1
 
 -------- RA ----------
 enabled
-confg t
+config t
 
 hostsname RA
 
