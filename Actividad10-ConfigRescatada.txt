@@ -126,7 +126,7 @@ vlan 20
 name Servers
 
 int vlan 100
-ip addess 210.10.10.93   255.255.255.254
+ip addess 210.10.10.94   255.255.255.254
 no shut
 
 ip defoult gaeteway  21O.1O.1O.96
