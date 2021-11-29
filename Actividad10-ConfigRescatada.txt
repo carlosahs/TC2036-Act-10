@@ -46,7 +46,7 @@ ip address 210.10.10.94 255.255.255.224
 no shut
 
 
-ip route 0.0.0.0  0.0.0.0  134.89.254.246
+ip route 0.0.0.0  0.0.0.0  s0/0/0
 
 
 router eigrp 2000
