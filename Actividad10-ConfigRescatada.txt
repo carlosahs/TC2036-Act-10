@@ -21,8 +21,6 @@ password cisco
 login
 logging sync
 
-enable password class
-
 
 int S0/0/0
 description La conexion con el ISP 
