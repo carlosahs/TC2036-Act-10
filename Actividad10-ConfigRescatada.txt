@@ -18,7 +18,7 @@ logging sync
 
 line vty 0 4
 password cisco
-login
+login local
 logging sync
 
 
