@@ -6,6 +6,7 @@ enable
 config t
 
 hostname RFrontera
+enable secret class
 
 service password-enc
 no ip domain-lookup
