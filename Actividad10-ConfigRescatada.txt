@@ -120,6 +120,3 @@ line vty 0 15
 password cisco
 login
 logging sync
-
-
-ip default gateway  210.10.10.94
