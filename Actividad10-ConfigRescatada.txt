@@ -75,7 +75,7 @@ logging sync
 line vty 0 4
 password cisco
 login
-logging
+logging sync
 
 int S0/0/0
 description La conexion con el RFrontera 
