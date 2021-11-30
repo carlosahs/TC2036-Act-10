@@ -18,7 +18,7 @@ logging sync
 
 line vty 0 4
 password cisco
-login local
+login
 logging sync
 
 
@@ -74,7 +74,7 @@ logging sync
 
 line vty 0 4
 password cisco
-login local
+login
 logging
 
 int S0/0/0
@@ -112,7 +112,7 @@ loggin sync
 
 line vty 0 15
 password cisco
-login local
+login
 logging sync
 
 
