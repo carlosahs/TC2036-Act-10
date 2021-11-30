@@ -119,6 +119,7 @@ loggin sync
 line vty 0 15
 password cisco
 login local
+logging sync
 
 vlan 20
 name Servers
