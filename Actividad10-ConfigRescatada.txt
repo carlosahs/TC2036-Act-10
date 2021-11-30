@@ -122,4 +122,4 @@ login
 logging sync
 
 
-ip default gateway  21O.1O.1O.94
+ip default gateway  210.10.10.94
