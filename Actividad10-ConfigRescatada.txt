@@ -31,7 +31,7 @@ no shut
 int S0/0/1
 description La conexion con el RA
 ip address 198.68.1.249 255.255.255.252
-clock rate 1280
+clock rate 128000
 no shut
 
 
