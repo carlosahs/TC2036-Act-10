@@ -58,7 +58,6 @@ network 198.68.1.0
 redistribute static
 
 passive-int s0/0/0
-passive-int s0/0/1
 passive-int g0/0
 passive-int g0/1
 
