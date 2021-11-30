@@ -68,6 +68,7 @@ enable
 config t
 
 hostname RA
+enable secret class
 
 service password-enc
 no ip domain lookup
@@ -81,8 +82,6 @@ line vty 0 4
 password cisco
 login local
 logging
-
-enable password class
 
 int S0/0/0
 description La conexion con el RFrontera 
